@@ -1,0 +1,151 @@
+$date
+	Wed Aug 25 21:54:17 2021
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module control_tb $end
+$var wire 1 ! magnetron $end
+$var reg 1 " clear $end
+$var reg 1 # closed_door $end
+$var reg 1 $ finished_time $end
+$var reg 1 % start $end
+$var reg 1 & stop $end
+$scope module DUT $end
+$var wire 1 " clear $end
+$var wire 1 # closed_door $end
+$var wire 1 $ finished_time $end
+$var wire 1 ! magnetron $end
+$var wire 1 % start $end
+$var wire 1 & stop $end
+$var wire 1 ' rs $end
+$var wire 1 ( rr $end
+$var wire 1 ) rq $end
+$scope module latch $end
+$var wire 1 ( r $end
+$var wire 1 ' s $end
+$var wire 1 ) q $end
+$var reg 1 ) rq $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0)
+1(
+0'
+0&
+0%
+0$
+0#
+0"
+0!
+$end
+#10000
+1&
+1%
+#20000
+1#
+#30000
+0#
+1$
+#40000
+1#
+#50000
+0#
+0$
+1"
+#60000
+0(
+1#
+#70000
+1(
+0#
+1$
+#80000
+1#
+#90000
+0#
+0$
+0"
+#100000
+1#
+#110000
+0#
+1$
+#120000
+1#
+#130000
+0#
+0$
+1"
+#140000
+0(
+1#
+#150000
+1(
+0#
+1$
+#160000
+1#
+#170000
+0#
+#200000
+0$
+#220000
+0&
+#250000
+1&
+0%
+#260000
+1!
+1)
+0(
+1'
+1#
+#270000
+0!
+0)
+1(
+0'
+0#
+1$
+#280000
+1'
+1#
+#290000
+0'
+0#
+0$
+#300000
+0(
+1#
+1%
+#310000
+1(
+0#
+1$
+#320000
+1#
+#330000
+0(
+0$
+#380000
+1!
+1)
+1'
+0%
+#385000
+0'
+1%
+#435000
+0!
+0)
+1(
+1$
+#485000
+0#
