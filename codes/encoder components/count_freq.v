@@ -1,11 +1,11 @@
-module division(clk, clk_division);
+module count_freq(clk, clk_count_freq);
   input wire clk;
-  output wire clk_division;
+  output wire clk_count_freq;
   
   reg [6:0] count = 0;
   reg tenth = 0;
   
-  assign clk_division = tenth;
+  assign clk_count_freq = tenth;
 
     always @ (posedge clk)
       begin
