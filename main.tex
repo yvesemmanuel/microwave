@@ -111,17 +111,36 @@ Os sinais de saída do sistema são: um sinal que ativa o magnetron, e três sin
 No segundo teste, colcamos o microondas para esquentar durante 2 minutos e 45 segundos. Além disso, interrompemos a execução do microondas, e depois o colocamos para esquentar novamente. O módulo funcionou quando esperado, parando de esquentar quando a porta foi aberta.
 
 \section*{Q5}
+\subsection*{Primeiro caso teste)} 
+
+\begin{figure}[!htb]
+    \centering
+    \includegraphics[scale=0.7]{imgs/testecontrol1}\\
+    \label{fig:teste1}
+\end{figure}
+
+Note que até pouco mais de 200 ns, o magnetron não inicia pois nos instantes em que \textit{finished\underline{ }time = 0} , isto é, o término do cozimento não está finalizado, a porta do microondas está aberta, isto é, \textit{closed\underline{ }door = 0}. Além disso, nos instantes em que a porta está de fato fechada, o \textit{clear = 1}, isto é, o tempo de cozimento é resetado, logo em nenhum desses instantes o magnetron tem sinal 1.
+
+\subsection*{Segundo caso teste)} 
+
+\begin{figure}[!htb]
+    \centering
+    \includegraphics[scale=0.7]{imgs/testecontrol2}\\
+    \label{fig:teste2}
+\end{figure}
+
+Note que há dois instantes onde o magnetron é ativado, e ele obedece as condições necessárias: a porta do microondas está fechada e o tempo de cozimento não acabou, isso é, \textit{closed\underline{ }door = 1} e \textit{finished\underline{ }time = 0}.
 
 
+\pagebreak
 \section*{Q6}
-
 \begin{center}
 \textbf{Autoavaliação}
 \end{center}
 
-O projeto foi muito difícil de executar, eram muitos componentes separados e ainda tínhamos de nos preocupar em juntá-los no nível 2 e no nível 1. Todos os componentes funcionaram como esperado, tivemos dificuldades em executar alguns testes na \textit{testbench}.
+O projeto foi muito difícil de executar, eram muitos componentes separados e ainda tínhamos de nos preocupar em juntá-los no nível 2 e no nível 1. Os testes realizados funcionam como esperado, o responsável por fazer os testes da questão 2 na \textit{testbench} não conseguiu terminar e relatar o seu trabalho.
 
-Faltou um pouco de coordenação dentro da equipe, mas isso já era esperado, visto que nunca trabalhamos juntos antes.
-Acredito que nosso projeto vale 8,5 numa escala de 0 a 10.
+Faltou um pouco de coordenação dentro da equipe, mas isso já era esperado, visto que nunca trabalhamos juntos antes. Além disso, o projeto coincidiu com as últimas avaliações do período, diminuindo nossa atenção.
+Acredito que nosso projeto vale 8 numa escala de 0 a 10.
 
 \end{document}

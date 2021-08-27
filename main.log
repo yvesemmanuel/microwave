@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.10.10)  27 AUG 2021 18:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.10.10)  27 AUG 2021 20:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -236,30 +236,47 @@ Overfull \hbox (20.82237pt too wide) in paragraph at lines 63--64
 r o tempo de-se-jado de fun-ci-o-na-mento,
  []
 
-[1] [2] [3] (./main.aux) ) 
+[1] [2]
+<imgs/testecontrol1.jpeg, id=22, 574.145pt x 157.58875pt>
+File: imgs/testecontrol1.jpeg Graphic file (type jpg)
+<use imgs/testecontrol1.jpeg>
+Package pdftex.def Info: imgs/testecontrol1.jpeg  used on input line 118.
+(pdftex.def)             Requested size: 401.89876pt x 110.31136pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 122.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 122.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 122.
+<imgs/testecontrol2.jpeg, id=23, 666.49pt x 155.58125pt>
+File: imgs/testecontrol2.jpeg Graphic file (type jpg)
+<use imgs/testecontrol2.jpeg>
+Package pdftex.def Info: imgs/testecontrol2.jpeg  used on input line 128.
+(pdftex.def)             Requested size: 466.53983pt x 108.90611pt.
+ [3 <./imgs/testecontrol1.jpeg> <./imgs/testecontrol2.jpeg>] [4]
+(./main.aux) ) 
 Here is how much of TeX's memory you used:
- 2856 strings out of 480608
- 39928 string characters out of 5903629
- 296794 words of memory out of 5000000
- 18724 multiletter control sequences out of 15000+600000
- 540652 words of font info for 36 fonts, out of 8000000 for 9000
+ 2901 strings out of 480608
+ 40668 string characters out of 5903629
+ 296808 words of memory out of 5000000
+ 18757 multiletter control sequences out of 15000+600000
+ 543090 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  30i,10n,45p,710b,325s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/c
-m-super/cm-super-t1.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-
-super/cm-super-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/c
-m-super/sfbx1200.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-
-super/sfbx1440.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-su
-per/sfbx1728.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-supe
-r/sfbx2488.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/
-sfrm1200.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sf
-rm1728.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfsl
-1200.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti12
-00.pfb>
-Output written on main.pdf (4 pages, 325634 bytes).
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-s
+uper-t1.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-sup
+er-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx
+1200.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx14
+40.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1728
+.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx2488.p
+fb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb
+></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><
+/usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb></u
+sr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on main.pdf (5 pages, 382032 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
- 38 compressed objects within 1 object stream
+ 60 PDF objects out of 1000 (max. 8388607)
+ 40 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
