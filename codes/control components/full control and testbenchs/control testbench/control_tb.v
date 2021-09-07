@@ -15,26 +15,7 @@ module control_tb();
       $dumpfile("testbench_control.vcd");
       $dumpvars(0, control_tb);
 
-      start = 0; stop = 0; clear = 0; finished_time = 0; closed_door = 0;   
-
-      #10 start = 1; stop = 1; clear = 0; finished_time = 0; closed_door = 0;   
-      #10 start = 1; stop = 1; clear = 0; finished_time = 0; closed_door = 1;   
-      #10 start = 1; stop = 1; clear = 0; finished_time = 1; closed_door = 0;   
-      #10 start = 1; stop = 1; clear = 0; finished_time = 1; closed_door = 1;   
-      #10 start = 1; stop = 1; clear = 1; finished_time = 0; closed_door = 0; 
-      #10 start = 1; stop = 1; clear = 1; finished_time = 0; closed_door = 1;   
-      #10 start = 1; stop = 1; clear = 1; finished_time = 1; closed_door = 0;   
-      #10 start = 1; stop = 1; clear = 1; finished_time = 1; closed_door = 1;   
-
-      #10 start = 1; stop = 1; clear = 0; finished_time = 0; closed_door = 0;   
-      #10 start = 1; stop = 1; clear = 0; finished_time = 0; closed_door = 1;  
-      #10 start = 1; stop = 1; clear = 0; finished_time = 1; closed_door = 0;  
-      #10 start = 1; stop = 1; clear = 0; finished_time = 1; closed_door = 1;   
-      #10 start = 1; stop = 1; clear = 1; finished_time = 0; closed_door = 0;   
-      #10 start = 1; stop = 1; clear = 1; finished_time = 0; closed_door = 1;   
-      #10 start = 1; stop = 1; clear = 1; finished_time = 1; closed_door = 0;   
-      #10 start = 1; stop = 1; clear = 1; finished_time = 1; closed_door = 1;   
-
+      start = 0; stop = 0; clear = 0; finished_time = 0; closed_door = 0;
       #10 start = 1; stop = 1; clear = 1; finished_time = 1; closed_door = 0;   
       #10 start = 1; stop = 1; clear = 1; finished_time = 1; closed_door = 0;   
       #10 start = 1; stop = 1; clear = 1; finished_time = 1; closed_door = 0;   
@@ -57,6 +38,6 @@ module control_tb();
       #50 start = 0; stop = 1; clear = 1; finished_time = 0; closed_door = 1;   
       #5  start = 1; stop = 1; clear = 1; finished_time = 0; closed_door = 1;   
       #50 start = 1; stop = 1; clear = 1; finished_time = 1; closed_door = 1;   
-      #50 start = 1; stop = 1; clear = 1; finished_time = 1; closed_door = 0;   
+      #50 start = 1; stop = 1; clear = 1; finished_time = 1; closed_door = 0;
     end
 endmodule

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.8.21)  23 AUG 2021 19:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.8.21)  7 SEP 2021 00:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -254,9 +254,9 @@ pen/ec/ecsl1200.600pk> </home/yves/.texlive2019/texmf-var/fonts/pk/ljfour/jknap
 pen/ec/ecbx2488.600pk> </home/yves/.texlive2019/texmf-var/fonts/pk/ljfour/jknap
 pen/ec/ecrm1728.600pk> </home/yves/.texlive2019/texmf-var/fonts/pk/ljfour/jknap
 pen/ec/ecbx1728.600pk>
-Output written on main.pdf (3 pages, 250065 bytes).
+Output written on main.pdf (3 pages, 247462 bytes).
 PDF statistics:
- 208 PDF objects out of 1000 (max. 8388607)
+ 200 PDF objects out of 1000 (max. 8388607)
  40 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
