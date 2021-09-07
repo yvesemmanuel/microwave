@@ -200,14 +200,14 @@ module debouncer(clk, clear, out);
 endmodule
 
 
-module division(clk, clk_division);
+module count_freq(clk, clk_count_freq);
   input wire clk;
-  output wire clk_division;
+  output wire clk_count_freq;
   
   reg [6:0] count = 0;
   reg tenth = 0;
   
-  assign clk_division = tenth;
+  assign clk_count_freq = tenth;
 
     always @ (posedge clk)
       begin
@@ -258,7 +258,7 @@ module encoder(code, clk, en, D, pgt_1Hz, load);
   // modules
   keypad_coder penc(.keys(code), .en(en), .D(D), .number(decoded));
   debouncer deb(.clk(clk), .clear(decoded), .out(INmux));
-  division div(.clk(clk), .clk_division(IN1mux));
+  count_freq div(.clk(clk), .clk_count_freq(IN1mux));
   mux_2to1 mux(.in(INmux), .in1(IN1mux), .sel(en), .out(pgt_1Hz));
   
   assign load = decoded;

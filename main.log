@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.8.21)  7 SEP 2021 00:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.10.10)  27 AUG 2021 20:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
-LaTeX2e <2020-02-02> patch level 2
-L3 programming layer <2020-02-14>
-(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
 \c@part=\count167
@@ -23,46 +23,46 @@ File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks14
-\inpenc@posthook=\toks15
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
 )
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2020/02/14 3.40 The Babel package
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/03/22 3.42 The Babel package
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
-File: switch.def 2020/02/14 3.40 Babel switching mechanism
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2020/03/22 3.42 Babel switching mechanism
 )
-(/usr/share/texlive/texmf-dist/tex/generic/babel-portuges/portuges.ldf
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel-portuges/portuges.ldf
 Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2020/02/14 3.40 Babel common definitions
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/03/22 3.42 Babel common definitions
 \babel@savecnt=\count175
 \U@D=\dimen135
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count176
 )
 Package babel Info: Making " an active character on input line 145.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks16
+\KV@toks@=\toks17
 )
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2019/11/07 v1.0c TeX engine tests
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
 \Gm@cnth=\count177
 \Gm@cntv=\count178
@@ -75,14 +75,14 @@ Package: iftex 2019/11/07 v1.0c TeX engine tests
 \Gm@layoutheight=\dimen141
 \Gm@layouthoffset=\dimen142
 \Gm@layoutvoffset=\dimen143
-\Gm@dimlist=\toks17
+\Gm@dimlist=\toks18
 )
-(/usr/share/texlive/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hyphenat/hyphenat.sty
 Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
-\langwohyphens=\language6
+\langwohyphens=\language86
 LaTeX Info: Redefining \_ on input line 43.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
 s
 \f@nch@headwidth=\skip49
@@ -95,30 +95,30 @@ s
 \f@nch@O@olf=\skip56
 \f@nch@O@orf=\skip57
 )
-(/usr/share/texlive/texmf-dist/tex/latex/capt-of/capt-of.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/capt-of/capt-of.sty
 Package: capt-of 2009/12/29 v0.2 standard captions outside of floats
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen144
 \Gin@req@width=\dimen145
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count180
 \calc@Bcount=\count181
@@ -131,19 +131,19 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count182
 \calc@Cskip=\skip60
 )
-(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count183
-\float@exts=\toks18
+\float@exts=\toks19
 \float@box=\box45
-\@float@everytoks=\toks19
+\@float@everytoks=\toks20
 \@floatcapt=\box46
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count184
 \l__pdf_internal_box=\box47
 )
@@ -199,25 +199,25 @@ LaTeX Font Info:    ... okay on input line 31.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count185
 \scratchdimen=\dimen148
 \scratchbox=\box48
 \nofMPsegments=\count186
 \nofMParguments=\count187
-\everyMPshowfont=\toks20
+\everyMPshowfont=\toks21
 \MPscratchCnt=\count188
 \MPscratchDim=\dimen149
 \MPnumerator=\count189
 \makeMPintoPDFobject=\count190
-\everyMPtoPDFconversion=\toks21
-) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+\everyMPtoPDFconversion=\toks22
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
@@ -229,35 +229,54 @@ Package pdftex.def Info: imgs/logo cin-ufpe.png  used on input line 44.
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./imgs/logo cin-ufpe.png>]
-
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./imgs/
+logo cin-ufpe.png>]
 Overfull \hbox (20.82237pt too wide) in paragraph at lines 63--64
 []\T1/cmr/m/n/12 Os si-nais de en-trada do sis-tema são: um clock para de-fi-ni
 r o tempo de-se-jado de fun-ci-o-na-mento,
  []
 
-[1] [2] (./main.aux) ) 
+[1] [2]
+<imgs/testecontrol1.jpeg, id=22, 574.145pt x 157.58875pt>
+File: imgs/testecontrol1.jpeg Graphic file (type jpg)
+<use imgs/testecontrol1.jpeg>
+Package pdftex.def Info: imgs/testecontrol1.jpeg  used on input line 118.
+(pdftex.def)             Requested size: 401.89876pt x 110.31136pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 122.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 122.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 122.
+<imgs/testecontrol2.jpeg, id=23, 666.49pt x 155.58125pt>
+File: imgs/testecontrol2.jpeg Graphic file (type jpg)
+<use imgs/testecontrol2.jpeg>
+Package pdftex.def Info: imgs/testecontrol2.jpeg  used on input line 128.
+(pdftex.def)             Requested size: 466.53983pt x 108.90611pt.
+ [3 <./imgs/testecontrol1.jpeg> <./imgs/testecontrol2.jpeg>] [4]
+(./main.aux) ) 
 Here is how much of TeX's memory you used:
- 2842 strings out of 483122
- 39325 string characters out of 5964496
- 288321 words of memory out of 5000000
- 17848 multiletter control sequences out of 15000+600000
- 539876 words of font info for 35 fonts, out of 8000000 for 9000
- 38 hyphenation exceptions out of 8191
+ 2901 strings out of 480608
+ 40668 string characters out of 5903629
+ 296808 words of memory out of 5000000
+ 18757 multiletter control sequences out of 15000+600000
+ 543090 words of font info for 44 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
  30i,10n,45p,710b,325s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/yves/.texlive2019/texmf-var/fonts/pk/ljfour/jknap
-pen/ec/ecti1200.600pk> </home/yves/.texlive2019/texmf-var/fonts/pk/ljfour/jknap
-pen/ec/tcrm1200.600pk> </home/yves/.texlive2019/texmf-var/fonts/pk/ljfour/jknap
-pen/ec/ecrm1200.600pk> </home/yves/.texlive2019/texmf-var/fonts/pk/ljfour/jknap
-pen/ec/ecbx1440.600pk> </home/yves/.texlive2019/texmf-var/fonts/pk/ljfour/jknap
-pen/ec/ecsl1200.600pk> </home/yves/.texlive2019/texmf-var/fonts/pk/ljfour/jknap
-pen/ec/ecbx2488.600pk> </home/yves/.texlive2019/texmf-var/fonts/pk/ljfour/jknap
-pen/ec/ecrm1728.600pk> </home/yves/.texlive2019/texmf-var/fonts/pk/ljfour/jknap
-pen/ec/ecbx1728.600pk>
-Output written on main.pdf (3 pages, 247462 bytes).
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-s
+uper-t1.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-sup
+er-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx
+1200.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx14
+40.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1728
+.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx2488.p
+fb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb
+></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><
+/usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb></u
+sr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on main.pdf (5 pages, 382032 bytes).
 PDF statistics:
- 200 PDF objects out of 1000 (max. 8388607)
+ 60 PDF objects out of 1000 (max. 8388607)
  40 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
